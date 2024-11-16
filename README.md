@@ -12,4 +12,4 @@ My first repository
 Ethical Dilemmas: Characters grappling with moral dilemmas create compelling drama. Shows like The Wire, The Sopranos, and Breaking Bad excel at exploring these gray areas.
 * **Visual Storytelling:** Cinematography: The way a series or movie is shot can significantly impact its storytelling. Composition, lighting, color, and camera movement all contribute to the mood and atmosphere.
 Visual Motifs: Recurring visual elements can add depth and symbolism to the narrative.
-World-Building: Visuals play a crucial role in creating immersive and believable worlds, whether it's a historical drama, a sci-fi epic, or a fantasy realm.
+World-Building: Visuals play a crucial role in creating immersive and believable worlds, whether it's a historical drama, a sci-fi epic, or a fantasy realm..
